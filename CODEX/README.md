@@ -14,7 +14,7 @@ This project explores the sales and market trends of energy drinks using SQL and
 - Build a dashboard for visual storytelling and stakeholder presentation
 
 -> 🌐 Tableau Dashboard
-👉(https://public.tableau.com/views/codexinsights/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 Interactive dashboard available upon request
 
 -> 📁 Project Structure
 
