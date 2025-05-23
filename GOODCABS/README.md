@@ -24,7 +24,7 @@ This project analyzes business performance for GoodCabs, a fictional ride-hailin
 | `SQL/`         | SQL scripts for data analysis and KPIs      |
 | `Presentation/`| PPT slides with summary and recommendations |
 | `Visualizations/` | Tableau dashboard screenshot             |
-| `Data/`        | Input CSV files             |
+| `Data/`        | Primary ,secondary and ad-hoc questions            |
 
 -> 🔍 Key Business Insights
 - Identified underperforming cities for targeted operational improvement
