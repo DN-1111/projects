@@ -1,7 +1,7 @@
 📊 Student Performance Analysis with Python
 
 📁 Project Overview
-This project analyzes a dataset containing student demographic, lifestyle, and academic data to uncover factors that influence performance in Math, Reading, and Writing. It combines data wrangling, visualization, and insight generation using Python libraries.
+- This project analyzes a dataset containing student demographic, lifestyle, and academic data to uncover factors that influence performance in Math, Reading, and Writing. It combines data wrangling, visualization, and insight generation using Python libraries.
 
 🧰 Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -13,6 +13,11 @@ This project analyzes a dataset containing student demographic, lifestyle, and a
 - Identify how variables like gender, ethnic group, parent education, lunch type, test preparation, and study hours affect scores.
 - Visualize trends using bar plots, stacked charts, and heatmaps.
 - Summarize key patterns and generate recommendations for improving student performance.
+
+📁 Project Structure
+- student_scores.pdf – pdf with analysis and visualizations.
+- data/ – Contains the raw dataset .
+- README.md – Project overview.
 
 📈 Key Findings
 - Test preparation has the strongest positive effect on all subject scores.
