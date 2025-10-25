@@ -10,7 +10,6 @@ Each project focuses on transforming raw data into actionable insights through d
    - Designed a KPI-driven Tableau dashboard to visualize fraud trends, transaction ranges, and PCA feature correlations (V1–V28).
    - Delivered strategic recommendations such as enhanced off-peak monitoring and tighter controls for small-value transactions.
 
-📂 View Project Folder
 
 2. ⚡ Codex Energy Drink: Market & Consumer Analysis
    - Tools: MySQL, Tableau, PowerPoint
@@ -18,7 +17,6 @@ Each project focuses on transforming raw data into actionable insights through d
    - Created dynamic Tableau dashboards to explore brand perception, demographics, and usage patterns.
    - Recommended data-backed strategies for product positioning and customer segmentation.
 
-📂 View Project Folder
 
 3. 📞 Customer Churn Analysis
    - Tools: Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -26,7 +24,6 @@ Each project focuses on transforming raw data into actionable insights through d
    - Suggested actionable retention tactics such as loyalty offers and contract-based incentives.
    - Documented the full analysis with clear annotations and reproducible Jupyter notebooks.
 
-📂 View Project Folder
 
 4. 🚗 Road Crash Severity & Pattern Analysis
    - Tools: MySQL, Tableau
@@ -34,7 +31,6 @@ Each project focuses on transforming raw data into actionable insights through d
    - Wrote 15+ SQL queries using CTEs, CASE, window, and date functions to identify state-wise risk zones and high-fatality vehicle pairings.
    - Developed an interactive Tableau dashboard visualizing severity trends, demographics, and geography-based patterns.
 
-📂 View Project Folder
 
 5. 🌿 Vanishing Green: Pollution & Tree Loss Analysis
    - Tools: Tableau, PowerPoint
@@ -42,7 +38,6 @@ Each project focuses on transforming raw data into actionable insights through d
    - Identified high-impact regions and key pollution drivers, supporting policy-level environmental action plans.
    - Translated findings into a storytelling presentation for non-technical stakeholders.
 
-📂 View Project Folder
 
 🧰 Skills & Tools
 - Programming & Querying: Python (Pandas, NumPy), MySQL
