@@ -39,13 +39,13 @@ Fraudulent transactions represent only 0.17% of the dataset, highlighting the re
   Designed an interactive dashboard to visualize fraud frequency, time-based trends, and key correlations.
 
 📊 Key Insights
-Fraudulent transactions are only 0.17% of total transactions.
-Fraud activity peaks at 2 AM and 11 AM, suggesting off-peak exploitation.
-Fraudulent transactions often have lower median amounts than legitimate ones.
-PCA features (V1–V28) show meaningful correlations with fraud likelihood.
+- Fraudulent transactions are only 0.17% of total transactions.
+- Fraud activity peaks at 2 AM and 11 AM, suggesting off-peak exploitation.
+- Fraudulent transactions often have lower median amounts than legitimate ones.
+- PCA features (V1–V28) show meaningful correlations with fraud likelihood.
 
 🧠 Learnings
-Handling imbalanced datasets and extracting insights from anonymized data.
-Applying feature engineering to derive time and amount-based insights.
-Building a clear, interactive Tableau dashboard for effective communication.
-Strengthened data-to-insight storytelling and visualization design.
+- Handling imbalanced datasets and extracting insights from anonymized data.
+- Applying feature engineering to derive time and amount-based insights.
+- Building a clear, interactive Tableau dashboard for effective communication.
+- Strengthened data-to-insight storytelling and visualization design.
