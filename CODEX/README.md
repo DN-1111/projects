@@ -37,3 +37,7 @@ This project explores the sales and market trends of energy drinks using SQL and
 - How to write effective analytical SQL queries (GROUP BY, CTEs, subqueries)
 - Tableau storytelling using charts, filters, and KPIs
 - Presenting insights clearly through dashboards and presentations
+
+  Tableau Dashboard link:
+  https://public.tableau.com/views/codexinsights/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  
