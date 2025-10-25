@@ -49,3 +49,6 @@ Fraudulent transactions represent only 0.17% of the dataset, highlighting the re
 - Applying feature engineering to derive time and amount-based insights.
 - Building a clear, interactive Tableau dashboard for effective communication.
 - Strengthened data-to-insight storytelling and visualization design.
+
+Tableau dashboard link:
+https://public.tableau.com/views/CreditCardFraudAnalysis_17583612937270/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
