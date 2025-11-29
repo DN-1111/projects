@@ -1,4 +1,4 @@
-Customer Churn Prediction — End-to-End Data Analysis & Machine Learning
+*** Customer Churn Prediction — End-to-End Data Analysis & Machine Learning ***
 
 This project analyzes and predicts telecom customer churn using Python, combining exploratory data analysis (EDA) with a full machine learning pipeline to identify at-risk customers and provide actionable retention strategies.
 
