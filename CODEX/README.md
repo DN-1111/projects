@@ -1,22 +1,23 @@
--> 🧃Codex Energy Drink:Survey Data Analysis And Consumer Insights
+**Codex Energy Drink:Survey Data Analysis And Consumer Insights**
 
--> 📌 Overview
+**Overview**
 This project explores the sales and market trends of energy drinks using SQL and Tableau. It uncovers insights into customer behavior, product performance, and regional trends to help drive business decisions.
+ 
+**Tools Used**
+* SQL (MySQL) – Data cleaning, transformations, KPIs, and analytical queries
+* Tableau Public – Dashboard creation and visual storytelling
+* PowerPoint – Executive summary and presentation deck
 
--> 🛠 Tools Used
-- SQL (MySQL)
-- Tableau Public
-- PowerPoint
+**Objectives**
+* Analyze sales trends and patterns in energy drinks
+* Identify top products, consumer segments, and purchase behaviors
+* Build an interactive Tableau dashboard for stakeholder insights
+* Provide data-driven recommendations for marketing and product strategy
 
--> 🎯 Objectives
-- Analyze sales trends and patterns in energy drinks
-- Identify top-performing products and regions
-- Build a dashboard for visual storytelling and stakeholder presentation
+**Tableau Dashboard**
+🔗  https://public.tableau.com/views/codexinsights/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
--> 🌐 Tableau Dashboard
-👉 Interactive dashboard available upon request
-
--> 📁 Project Structure
+**Project Structure**
 
 | Folder         | Description                                 |
 |----------------|---------------------------------------------|
@@ -25,19 +26,17 @@ This project explores the sales and market trends of energy drinks using SQL and
 | `Visualizations/` | Screenshot of Tableau dashboard         |
 | `Data/`        | Input data files used in the project        |
 
--> 🚀 Key Insights
-- Age 19–30 - dominant consumer segment (55%)
-- Online ads & TV - most impactful marketing channels
-- Caffeine & vitamins - top ingredient preferences
-- Brand reputation > taste in importance
-- Supermarkets & gyms - top purchase spots
-- Limited editions boost buying interest (40%)
-  
--> 🧠 What I Learned
-- How to write effective analytical SQL queries (GROUP BY, CTEs, subqueries)
-- Tableau storytelling using charts, filters, and KPIs
-- Presenting insights clearly through dashboards and presentations
+**Key Insights**
+* Age 19–30 is the dominant consumer segment (≈55%)
+* Online ads and TV campaigns are the most influential marketing channels
+* Consumers prefer caffeine and vitamin-based drinks
+* Brand reputation is the top purchase driver—above even taste
+* Supermarkets and gyms are the most common purchase locations
+* Limited-edition variants increase interest by ~40%
 
-  Tableau Dashboard link:
-  https://public.tableau.com/views/codexinsights/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**🧠 What I Learned**
+* Writing effective analytical SQL queries: CTEs, GROUP BY, aggregations, subqueries, and joins
+* Designing a clean, KPI-driven Tableau dashboard with filters and visual storytelling
+* Communicating insights clearly through structured presentations and visuals
+
   
