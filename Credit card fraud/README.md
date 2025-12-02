@@ -1,54 +1,99 @@
 🧾 Project Overview
 
-This project analyzes a dataset of 284,807 anonymized credit card transactions, labeled as fraudulent or legitimate.
-The goal was to detect behavioral and time-based fraud patterns and explore correlations among PCA-transformed features (V1–V28).
-Using Python for data analysis and Tableau for visualization, the project demonstrates how analytics can uncover hidden fraud signals and support financial risk mitigation.
+This project analyzes 284,807 anonymized credit card transactions, labeled as fraudulent or legitimate, with the goal of detecting fraud patterns, understanding behavioral signals, and building a machine learning model capable of identifying fraud with high accuracy.
+
+The dataset includes PCA-transformed features (V1–V28), making it ideal for both statistical analysis and machine learning modeling.
+Using Python for EDA + ML and Tableau for visualization, this project demonstrates how analytics and predictive modeling can work together to strengthen financial fraud detection systems.
 
 🧰 Tools & Technologies
-- Data processing and EDA: Python
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn
-- Visualization and dashboard: Tableau
-- Data Handling: CSV, feature binning, correlation analysis
-- Others: Jupyter Notebook, GitHub
+* Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost, SHAP
+* Visualization: Tableau
+* Others: Jupyter Notebook, Joblib
 
 📂 Dataset Information
-The dataset (available on Kaggle – Credit Card Fraud Detection
-) contains:
-- Time: Seconds since the first transaction
-- V1–V28: PCA-transformed features (anonymized)
-- Amount: Transaction amount
-- Class: 0 = Legitimate, 1 = Fraudulent
+* Source: Kaggle (Credit Card Fraud Detection)
+* Features: Time, Amount, PCA components V1–V28, Class (0=Legit, 1=Fraud)
+* Fraud accounts for only 0.17% → highly imbalanced classification problem
 
-Fraudulent transactions represent only 0.17% of the dataset, highlighting the real-world imbalance challenge in fraud detection.
+Project Workflow (Short)
+1. EDA & Feature Engineering
 
-🔍 Project Workflow
+Created Hour, AmountBin, and is_night features
 
-- Data Loading & Inspection:
-  Loaded CSV data, checked structure, datatypes, and missing values.
-- Feature Engineering:
-  Created Hour column from the Time variable.
-- Binned Amount into categories (Very Low, Low, Medium, High, Very High).
-- Exploratory Data Analysis (EDA):
-  Class imbalance visualization
-  Transaction amount vs. class (log-scale boxplot)
-  Fraud trends by hour of day
-  Correlation analysis of all numerical features with the target class
-- Correlation Export:
-  Saved feature–fraud correlations as a CSV for Tableau visualization.
-- Tableau Dashboard:
-  Designed an interactive dashboard to visualize fraud frequency, time-based trends, and key correlations.
+Explored class imbalance, hourly patterns, and PCA correlations
 
-📊 Key Insights
-- Fraudulent transactions are only 0.17% of total transactions.
-- Fraud activity peaks at 2 AM and 11 AM, suggesting off-peak exploitation.
-- Fraudulent transactions often have lower median amounts than legitimate ones.
-- PCA features (V1–V28) show meaningful correlations with fraud likelihood.
+Exported correlations for Tableau dashboard
 
-🧠 Learnings
-- Handling imbalanced datasets and extracting insights from anonymized data.
-- Applying feature engineering to derive time and amount-based insights.
-- Building a clear, interactive Tableau dashboard for effective communication.
-- Strengthened data-to-insight storytelling and visualization design.
+2. Machine Learning
+
+Models trained:
+
+Logistic Regression
+
+Random Forest
+
+XGBoost (final)
+
+Handled imbalance using scale_pos_weight.
+Evaluated using ROC-AUC, precision, recall, F1, confusion matrix.
+
+3. Threshold & Hyperparameter Tuning
+
+Tuned probability threshold for fraud detection
+
+Performed RandomizedSearchCV on XGBoost
+
+Balanced business trade-offs (false positives vs false negatives)
+
+4. Explainability (SHAP)
+
+Identified top contributors → V14, V4, V12, V10
+
+Explained individual fraud predictions
+
+Ensures model transparency for real-world auditability
+
+5. Deployment Readiness
+
+Saved final model (.pkl)
+
+Saved metadata (features + threshold)
+
+Added prediction function for scoring new transactions
+
+📊 Key Findings (Short)
+
+Fraud happens mostly during late-night and mid-morning hours.
+
+Fraud amounts are typically lower than legitimate ones.
+
+PCA components (V14, V4, V12, V10) are strong fraud indicators.
+
+Final XGBoost model achieved:
+
+ROC-AUC ≈ 0.98
+
+High recall & strong precision balance
+
+Minimal false negatives with controlled false positives
+
+🧠 What I Learned
+
+Imbalanced classification techniques
+
+Feature engineering for behavioral insights
+
+ML model comparison, tuning, and threshold optimization
+
+Model explainability using SHAP
+
+Deployment-ready model saving + prediction pipeline
+
+Dashboard design for fraud analytics
+
+🔗 Dashboard:
+https://public.tableau.com/views/CreditCardFraudAnalysis_17583612937270/Dashboard1
+
 
 Tableau dashboard link:
 https://public.tableau.com/views/CreditCardFraudAnalysis_17583612937270/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
