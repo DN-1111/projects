@@ -1,6 +1,7 @@
 **Codex Energy Drink:Survey Data Analysis And Consumer Insights**
 
 **Overview**
+
 This project explores the sales and market trends of energy drinks using SQL and Tableau. It uncovers insights into customer behavior, product performance, and regional trends to help drive business decisions.
  
 **Tools Used**
