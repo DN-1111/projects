@@ -57,3 +57,9 @@ Built three dashboards for clean storytelling:
 
 🔗 https://public.tableau.com/views/Roadcrashanalysis/roadandcrashtype?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+**What I Learned**
+* Advanced SQL cleaning & transformation
+* Designing clean, theme-based dashboards
+* Combining spatial, temporal & demographic analysis
+* Turning messy, real-world data into actionable insights
+
