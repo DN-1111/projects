@@ -1,3 +1,5 @@
+# **Patterns of Deception: Credit Card Fraud Analysis** 
+
 **Project Overview**
 
 This project analyzes 284,807 anonymized credit card transactions, labeled as fraudulent or legitimate, with the goal of detecting fraud patterns, understanding behavioral signals, and building a machine learning model capable of identifying fraud with high accuracy.
