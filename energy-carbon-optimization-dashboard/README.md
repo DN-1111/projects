@@ -10,7 +10,7 @@ The final deliverable is an interactive dashboard that helps decision-makers und
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](images/dashboard_overview.png)
+![Executive Overview](images/executive_sustainability_overview.png)
 
 ### Operational Efficiency Analysis
 ![Operational Analysis](images/operational_analysis.png)
