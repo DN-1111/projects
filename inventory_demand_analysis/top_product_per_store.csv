@@ -1,0 +1,51 @@
+Store_ID,Product_ID,Units_Sold,Revenue,Transactions,Product_Name,Product_Category,Store_Name,Store_City,Store_Location
+1,8,2124,14846.76,1640,Deck Of Cards,Games,Maven Toys Guadalajara 1,Guadalajara,Residential
+2,3,2614,10429.86,1438,Barrel O' Slime,Art & Crafts,Maven Toys Monterrey 1,Monterrey,Residential
+3,6,2629,39408.71,1669,Colorbuds,Electronics,Maven Toys Guadalajara 2,Guadalajara,Commercial
+4,6,2996,44910.04,2091,Colorbuds,Electronics,Maven Toys Saltillo 1,Saltillo,Downtown
+5,8,2104,14706.960000000001,1500,Deck Of Cards,Games,Maven Toys La Paz 1,La Paz,Downtown
+6,6,4914,73660.86,2793,Colorbuds,Electronics,Maven Toys Mexicali 1,Mexicali,Commercial
+7,25,3692,11039.08,2177,PlayDoh Can,Art & Crafts,Maven Toys Monterrey 2,Monterrey,Downtown
+8,3,2374,9472.26,1312,Barrel O' Slime,Art & Crafts,Maven Toys Pachuca 1,Pachuca,Downtown
+9,3,3860,15401.400000000001,1729,Barrel O' Slime,Art & Crafts,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown
+10,21,4244,42397.56,2198,Mini Ping Pong Set,Sports & Outdoors,Maven Toys Campeche 1,Campeche,Downtown
+11,25,2000,5980.0,1492,PlayDoh Can,Art & Crafts,Maven Toys Cuernavaca 1,Cuernavaca,Downtown
+12,6,1922,28810.78,1408,Colorbuds,Electronics,Maven Toys Chetumal 1,Chetumal,Downtown
+13,3,2587,10322.130000000001,1357,Barrel O' Slime,Art & Crafts,Maven Toys Mexicali 2,Mexicali,Downtown
+14,25,3690,11033.1,1903,PlayDoh Can,Art & Crafts,Maven Toys Guanajuato 1,Guanajuato,Downtown
+15,3,2501,9978.99,1392,Barrel O' Slime,Art & Crafts,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown
+16,25,2204,6589.96,1424,PlayDoh Can,Art & Crafts,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown
+17,3,4218,16829.82,1901,Barrel O' Slime,Art & Crafts,Maven Toys Toluca 1,Toluca,Downtown
+18,25,2337,6987.63,1572,PlayDoh Can,Art & Crafts,Maven Toys Merida 1,Merida,Downtown
+19,6,2565,38449.35,1883,Colorbuds,Electronics,Maven Toys Puebla 1,Puebla,Commercial
+20,3,2138,8530.62,1283,Barrel O' Slime,Art & Crafts,Maven Toys Zacatecas 1,Zacatecas,Downtown
+21,25,2295,6862.05,1495,PlayDoh Can,Art & Crafts,Maven Toys Santiago 1,Santiago,Downtown
+22,6,2439,36560.61,1684,Colorbuds,Electronics,Maven Toys Guanajuato 2,Guanajuato,Commercial
+23,21,2055,20529.45,1377,Mini Ping Pong Set,Sports & Outdoors,Maven Toys Chihuahua 1,Chihuahua,Commercial
+24,6,2096,31419.04,1452,Colorbuds,Electronics,Maven Toys Aguascalientes 1,Aguascalientes,Downtown
+25,6,3439,51550.61,2218,Colorbuds,Electronics,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown
+26,3,1849,7377.51,1152,Barrel O' Slime,Art & Crafts,Maven Toys Campeche 2,Campeche,Commercial
+27,3,3155,12588.45,1563,Barrel O' Slime,Art & Crafts,Maven Toys Oaxaca 1,Oaxaca,Downtown
+28,3,3398,13558.02,1618,Barrel O' Slime,Art & Crafts,Maven Toys Puebla 2,Puebla,Downtown
+29,6,2160,32378.4,1624,Colorbuds,Electronics,Maven Toys Xalapa 1,Xalapa,Commercial
+30,6,3809,57096.91,2476,Colorbuds,Electronics,Maven Toys Guadalajara 3,Guadalajara,Airport
+31,6,5627,84348.73,3057,Colorbuds,Electronics,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport
+32,6,3286,49257.14,2060,Colorbuds,Electronics,Maven Toys Hermosillo 1,Hermosillo,Residential
+33,14,3356,36882.44,1466,Glass Marbles,Games,Maven Toys Monterrey 3,Monterrey,Airport
+34,25,2682,8019.18,1747,PlayDoh Can,Art & Crafts,Maven Toys Villahermosa 1,Villahermosa,Downtown
+35,6,2077,31134.23,1676,Colorbuds,Electronics,Maven Toys Chilpancingo 1,Chilpancingo,Downtown
+36,14,5120,56268.8,1612,Glass Marbles,Games,Maven Toys Morelia 1,Morelia,Downtown
+37,3,3303,13178.970000000001,1616,Barrel O' Slime,Art & Crafts,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential
+38,21,4229,42247.71,2196,Mini Ping Pong Set,Sports & Outdoors,Maven Toys Chihuahua 2,Chihuahua,Downtown
+39,25,3310,9896.900000000001,1764,PlayDoh Can,Art & Crafts,Maven Toys Xalapa 2,Xalapa,Downtown
+40,31,1657,14896.43,1195,Splash Balls,Sports & Outdoors,Maven Toys Toluca 2,Toluca,Commercial
+41,25,2456,7343.4400000000005,1514,PlayDoh Can,Art & Crafts,Maven Toys Hermosillo 2,Hermosillo,Downtown
+42,6,4774,71562.26,2712,Colorbuds,Electronics,Maven Toys Hermosillo 3,Hermosillo,Commercial
+43,25,2123,6347.77,1280,PlayDoh Can,Art & Crafts,Maven Toys Durango 1,Durango,Downtown
+44,6,3048,45689.52,2067,Colorbuds,Electronics,Maven Toys Puebla 3,Puebla,Residential
+45,6,3200,47968.0,2100,Colorbuds,Electronics,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial
+46,6,3655,54788.45,2193,Colorbuds,Electronics,Maven Toys Guadalajara 4,Guadalajara,Downtown
+47,31,4812,43259.88,2174,Splash Balls,Sports & Outdoors,Maven Toys Monterrey 4,Monterrey,Commercial
+48,25,2595,7759.05,1501,PlayDoh Can,Art & Crafts,Maven Toys Saltillo 2,Saltillo,Commercial
+49,25,2820,8431.800000000001,1592,PlayDoh Can,Art & Crafts,Maven Toys Culiacan 1,Culiacan,Downtown
+50,18,2183,87298.17,1487,Lego Bricks,Toys,Maven Toys Guanajuato 3,Guanajuato,Residential
