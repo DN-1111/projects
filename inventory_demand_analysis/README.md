@@ -153,13 +153,13 @@ It includes:
 ## Key Insights
 
 - **Revenue is highly concentrated in a small number of products.**  
-  Product performance analysis shows that items such as **:contentReference[oaicite:0]{index=0}** generate the largest share of revenue (~$2.39M). This indicates that a relatively small subset of products drives a significant portion of overall sales, increasing the risk of stock-outs if these high-demand products are not adequately replenished.
+  Product performance analysis shows that items such as **Lego Bricks** generate the largest share of revenue (~$2.39M). This indicates that a relatively small subset of products drives a significant portion of overall sales, increasing the risk of stock-outs if these high-demand products are not adequately replenished.
 
 - **Demand varies significantly across store locations.**  
   The product-by-store heat map reveals that performance is not uniform across all stores. Certain products perform exceptionally well in specific locations while showing lower demand in others. This suggests that customer preferences vary geographically, making uniform inventory distribution inefficient.
 
 - **A small number of stores generate a disproportionately large share of revenue.**  
-  Store performance analysis indicates that top-performing stores such as **:contentReference[oaicite:1]{index=1}** generate the highest revenue, significantly outperforming other locations. High-impact stores contribute a large portion of overall sales and require consistent product availability to avoid revenue loss.
+  Store performance analysis indicates that top-performing stores such as **Maven Toys Ciudad de Mexico 2** generate the highest revenue, significantly outperforming other locations. High-impact stores contribute a large portion of overall sales and require consistent product availability to avoid revenue loss.
 
 - **Sales trends show noticeable fluctuations throughout the year.**  
   Monthly sales trend analysis indicates that demand peaks between March and July (~110K units sold) and drops around October (~48K units sold), suggesting seasonal demand patterns that should be considered when planning inventory levels.
