@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This project analyzes customer complaint data to identify the main drivers of Service Level Agreement (SLA) breaches in service operations. Using SQL for data transformation and Tableau for visualization, the analysis highlights high-risk products, complaint categories, and operational patterns that impact SLA performance.
+This project analyzes customer complaint data to identify the main drivers of Service Level Agreement (SLA) breaches in service operations. Using SQL for data transformation and Tableau for visualization, the analysis highlights high-risk products, complaint categories and operational patterns that impact SLA performance.
 
 ---
 
@@ -15,7 +15,7 @@ The goal was to help leadership understand where service delays occur and priori
 
 ## Business Problem
 
-The organization was experiencing inconsistent SLA performance, with some customer complaints not being resolved within the expected timeframes. Leadership needed visibility into which products, complaint types, and operational areas were contributing most to SLA breaches so they could prioritize improvement efforts effectively.
+The organization was experiencing inconsistent SLA performance, with some customer complaints not being resolved within the expected timeframes. Leadership needed visibility into which products, complaint types and operational areas were contributing most to SLA breaches so they could prioritize improvement efforts effectively.
 
 ---
 
@@ -24,7 +24,7 @@ The organization was experiencing inconsistent SLA performance, with some custom
 **Source:** Maven Analytics – Consumer Complaints Dataset  
 
 The dataset contains customer complaint records submitted to financial service providers.  
-It includes information about complaint categories, issue types, submission channels, geographic location, and response timelines.
+It includes information about complaint categories, issue types, submission channels, geographic location and response timelines.
 
 ### Key Fields
 
@@ -72,7 +72,7 @@ It includes information about complaint categories, issue types, submission chan
 2. **Data Preparation (SQL)**
    - Created SLA eligibility and breach indicators
    - Derived operational metrics and complaint trends
-   - Performed analysis across products, issues, geography, and time
+   - Performed analysis across products, issues, geography and time
 
 3. **Visualization (Tableau)**
    - Built an interactive dashboard to highlight operational insights
