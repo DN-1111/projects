@@ -3,7 +3,7 @@
 
 This project analyzes enterprise energy consumption across multiple buildings to identify operational inefficiencies and opportunities to reduce carbon emissions.
 
-Using Python, SQL, and Tableau, the project explores energy usage patterns, occupancy behavior, and hourly load trends to provide actionable sustainability insights.
+Using Python, SQ and Tableau, the project explores energy usage patterns, occupancy behavior, and hourly load trends to provide actionable sustainability insights.
 
 The final deliverable is an interactive dashboard that helps decision-makers understand energy consumption patterns and prioritize carbon reduction strategies.
 
@@ -89,7 +89,7 @@ ___
 
 ## Project Workflow
 
-The project follows an end-to-end data analytics workflow covering data preparation, analysis, and visualization.
+The project follows an end-to-end data analytics workflow covering data preparation, analysis and visualization.
 
 ### 1. Data Preparation (Python)
 
@@ -97,7 +97,7 @@ The dataset was first analyzed and cleaned using Python and Pandas. This stage i
 
 - Loading and exploring the dataset
 - Checking for missing values and incorrect data types
-- Converting timestamps into usable time features such as hour, day, and weekday
+- Converting timestamps into usable time features such as hour, day and weekday
 - Creating additional analytical features including carbon emission estimates
 - Simulating renewable energy adoption to estimate carbon reduction potential
 
@@ -128,7 +128,7 @@ Finally, Tableau was used to build an interactive dashboard that communicates th
 The dashboard is organized into three sections:
 
 - **Executive Sustainability Overview** – summarizes total energy consumption and carbon emissions
-- **Operational Efficiency & Load Behavior** – analyzes energy usage by occupancy level, building type, and hourly demand patterns
+- **Operational Efficiency & Load Behavior** – analyzes energy usage by occupancy level, building type and hourly demand patterns
 - **Decarbonization Strategy** – highlights buildings with the highest emissions and evaluates renewable energy impact
 
 The dashboard enables stakeholders to explore energy usage patterns and prioritize sustainability initiatives.
@@ -165,8 +165,7 @@ Hourly load analysis revealed that peak energy demand occurs during evening hour
 Simulation of renewable energy adoption shows that the organization could potentially reduce total carbon emissions by approximately 20 percent.
 
 ### 5. Carbon Reduction Potential Varies Across Buildings
-Some buildings contribute significantly more to carbon emissions than others. Prioritizing renewable energy implementation in these high-impact facilities would 
-maximize emission reduction.
+Some buildings contribute significantly more to carbon emissions than others. Prioritizing renewable energy implementation in these high-impact facilities would maximize emission reduction.
 
 ___
 
@@ -180,7 +179,7 @@ Based on the insights from the analysis, several actions can help improve energy
 
 2. **Optimize Energy Usage During Low Occupancy**
 
-   Buildings showing high energy consumption during low occupancy periods should implement energy management strategies such as automated lighting, HVAC optimization, and smart building systems.
+   Buildings showing high energy consumption during low occupancy periods should implement energy management strategies such as automated lighting, HVAC optimization and smart building systems.
 
 3. **Implement Energy Storage or Demand-Shifting**
 
@@ -211,7 +210,7 @@ If implemented, the insights from this analysis could deliver measurable sustain
   Hourly load analysis revealed **evening peak demand between 20:00–22:00**, enabling organizations to evaluate **energy storage or demand-shifting strategies** to manage peak electricity usage more effectively.
 
 - **Data-driven sustainability planning**  
-  The integrated dashboard enables leadership to monitor energy consumption, benchmark facilities, and evaluate decarbonization scenarios, supporting **data-driven energy management and ESG reporting**.
+  The integrated dashboard enables leadership to monitor energy consumption, benchmark facilities and evaluate decarbonization scenarios, supporting **data-driven energy management and ESG reporting**.
 
 ___
 
@@ -219,7 +218,7 @@ ___
 
 This project demonstrates how data analytics can be used to understand enterprise energy consumption patterns and support sustainability initiatives.
 
-By combining Python for data preparation, SQL for analytical querying, and Tableau for visualization, the project transforms raw operational data into actionable insights.
+By combining Python for data preparation, SQL for analytical querying and Tableau for visualization, the project transforms raw operational data into actionable insights.
 
 The dashboard helps identify high-consumption buildings, understand peak demand behavior, and evaluate the potential impact of renewable energy adoption. These insights can support organizations in improving energy efficiency and progressing toward carbon reduction goals.
 
