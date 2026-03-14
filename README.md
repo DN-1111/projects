@@ -122,7 +122,7 @@ ___
 
 ### Repository Structure
 
-'''
+```
 data-analytics-portfolio
 │
 ├── Codex_Energy_Drink_Market_Analysis
@@ -135,7 +135,7 @@ data-analytics-portfolio
 ├── Customer_Complaint_SLA_Analysis
 ├── Enterprise_Energy_Carbon_Optimization
 ├── Retail_Inventory_Demand_Analysis
-'''
+```
 
 
 
