@@ -1,4 +1,4 @@
-**🛣️ Road Crash Severity Analysis (India, 2022–2023)**
+** Road Crash Severity Analysis (India, 2022–2023)**
 
 **Overview:**
 
@@ -8,7 +8,7 @@ This project analyzes India’s road crash data from 2022–2023 to uncover patt
 * SQL (MySQL) – Data cleaning & KPI calculation
 * Tableau – Visualization & dashboard design
 
-**🧾 Dataset**
+** Dataset**
 
 Source: Media Reported Road Traffic Crash Data – Mendeley Data (2023)
 
