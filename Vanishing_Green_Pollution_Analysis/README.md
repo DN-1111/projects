@@ -17,7 +17,7 @@ This project visualizes India’s deforestation and pollution trends using a mul
 
 **Tableau Dashboard**
 
-👉Interactive dashboard : https://public.tableau.com/views/Vanishinggreen/Dashboard15?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Interactive dashboard : https://public.tableau.com/views/Vanishinggreen/Dashboard15?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Project Structure**
 
